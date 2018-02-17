@@ -6,7 +6,7 @@ var cacheName = 'cache-v4';
 //Files to save in cache
 var files = [
   './',
-  './index.html', //SW treats query string as new request
+  'https://swapnil-tiwari.github.io/index.html', //SW treats query string as new request
   'https://fonts.googleapis.com/css?family=Roboto:200,300,400,500,700', //caching 3rd party content
   './css/main.css',
   './css/second.css',
