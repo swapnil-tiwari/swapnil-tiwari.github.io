@@ -1,0 +1,25 @@
+{
+  "name": "Stalky",
+  "short_name": "Find your Stalker",
+  "display":"portrait",
+  "theme": {
+  "colors": {
+    "accentcolor": "#3fafcf",
+    "textcolor": "#000"
+		}
+	},
+	"description": "Find who stalks your profile",
+	"start_url": "index.php",
+  "icons": [
+    
+    {
+      "src": "android/android-launchericon-512-512.png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "android/android-launchericon-192-192.png",
+      "sizes": "192x192"
+    }
+    
+  ]
+}
