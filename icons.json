@@ -1,7 +1,7 @@
 {
   "name": "Stalky",
   "short_name": "Find your Stalker",
-  "display":"portrait",
+  "display":"browser",
   "theme": {
   "colors": {
     "accentcolor": "#3fafcf",
