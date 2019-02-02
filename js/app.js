@@ -1,0 +1,9 @@
+$('#home').click(function(){
+	$('#main-view').load('./pages/home.html');
+});
+$('#profile').click(function(){
+	$('#main-view').load('./pages/profile.html');
+});
+$('#work').click(function(){
+	$('#main-view').load('./pages/work.html');
+});
